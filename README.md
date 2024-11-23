@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm utsav</h1>
 <h3 align="center">i m a full stack devloper</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijit2505&label=Profile%20views&color=0e75b6&style=flat" alt="abhijit2505" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhijit2505" alt="abhijit2505" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/abhijittripat13" target="blank"><img src="https://img.shields.io/twitter/follow/abhijittripat13?logo=twitter&style=for-the-badge" alt="abhijittripat13" /></a> </p>
-
-- 🔭 I’m currently working at [Presear Softwares PVT LTD](https://www.presear.com/)
 
 - 🌱 I’m currently learning "web devlopment"
 
