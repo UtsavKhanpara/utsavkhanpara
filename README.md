@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/utsavkhanpara/">
-    <img src="https://readme-typing-svg.demolab.com?font=Matemasie&size=35&duration=1&pause=1000&width=300&lines=utsav+khanpara" alt="utsavkhanpara" />
+   
   </a>
 </p>
 
