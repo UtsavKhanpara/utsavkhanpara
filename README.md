@@ -31,7 +31,7 @@
   </a>
  
   <a href="https://www.facebook.com/utsav.khanpara/">
-    <img src="https://images.macrumors.com/t/3SwpDI7nrMQeeIro9X7SbILE4_I=/1600x0/article-new/2021/03/Facebook-Feature.jpg"/>
+    <img src="https://images.macrumors.com/t/3SwpDI7nrMQeeIro9X7SbILE4_I=/1600x0/article-new/2021/03/Facebook-Feature.jpg " style="height="20px" >
   </a>
 
   
